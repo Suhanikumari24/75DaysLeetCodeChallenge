@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0717-1-bit-and-2-bit-characters) |
 ## Divide and Conquer
 |  |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
