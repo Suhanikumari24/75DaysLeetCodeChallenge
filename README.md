@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
