@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
