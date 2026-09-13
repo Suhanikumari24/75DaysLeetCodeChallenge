@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -95,8 +97,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Suhanikumari24/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
